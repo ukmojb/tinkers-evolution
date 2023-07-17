@@ -1,0 +1,20 @@
+{
+  "9s": "pi",
+  "archetype": {
+    "parent": "item/generated"
+  },
+  "mutations": {
+    "type": {
+      "MEAT_INGOT_RAW": {
+        "textures": {
+          "layer0": "tconevo:items/meat_ingot_raw"
+        }
+      },
+      "MEAT_INGOT_COOKED": {
+        "textures": {
+          "layer0": "tconevo:items/meat_ingot_cooked"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "9s": "pi",
+  "archetype": {},
+  "mutations": {
+    "type": {
+      "WYVERN_METAL": {
+        "textures": {
+          "ingot": "tconevo:items/metal/ingot/wyvern_metal",
+          "dust": "tconevo:items/metal/dust/wyvern_metal",
+          "nugget": "tconevo:items/metal/nugget/wyvern_metal",
+          "plate": "tconevo:items/metal/plate/wyvern_metal",
+          "gear": "tconevo:items/metal/gear/wyvern_metal"
+        }
+      },
+      "DRACONIC_METAL": {
+        "textures": {
+          "ingot": "tconevo:items/metal/ingot/draconic_metal",
+          "dust": "tconevo:items/metal/dust/draconic_metal",
+          "nugget": "tconevo:items/metal/nugget/draconic_metal",
+          "plate": "tconevo:items/metal/plate/draconic_metal",
+          "gear": "tconevo:items/metal/gear/draconic_metal"
+        }
+      },
+      "CHAOTIC_METAL": {
+        "textures": {
+          "ingot": "tconevo:items/metal/ingot/chaotic_metal",
+          "dust": "tconevo:items/metal/dust/chaotic_metal",
+          "nugget": "tconevo:items/metal/nugget/chaotic_metal",
+          "plate": "tconevo:items/metal/plate/chaotic_metal",
+          "gear": "tconevo:items/metal/gear/chaotic_metal"
+        }
+      },
+      "ESSENCE_METAL": {
+        "textures": {
+          "ingot": "tconevo:items/metal/ingot/essence_metal",
+          "dust": "tconevo:items/metal/dust/essence_metal",
+          "nugget": "tconevo:items/metal/nugget/essence_metal",
+          "plate": "tconevo:items/metal/plate/essence_metal",
+          "gear": "tconevo:items/metal/gear/essence_metal"
+        }
+      },
+      "PRIMAL_METAL": {
+        "textures": {
+          "ingot": "tconevo:items/metal/ingot/primal_metal",
+          "dust": "tconevo:items/metal/dust/primal_metal",
+          "nugget": "tconevo:items/metal/nugget/primal_metal",
+          "plate": "tconevo:items/metal/plate/primal_metal",
+          "gear": "tconevo:items/metal/gear/primal_metal"
+        }
+      },
+      "BOUND_METAL": {
+        "textures": {
+          "ingot": "tconevo:items/metal/ingot/bound_metal",
+          "dust": "tconevo:items/metal/dust/bound_metal",
+          "nugget": "tconevo:items/metal/nugget/bound_metal",
+          "plate": "tconevo:items/metal/plate/bound_metal",
+          "gear": "tconevo:items/metal/gear/bound_metal"
+        }
+      },
+      "SENTIENT_METAL": {
+        "textures": {
+          "ingot": "tconevo:items/metal/ingot/sentient_metal",
+          "dust": "tconevo:items/metal/dust/sentient_metal",
+          "nugget": "tconevo:items/metal/nugget/sentient_metal",
+          "plate": "tconevo:items/metal/plate/sentient_metal",
+          "gear": "tconevo:items/metal/gear/sentient_metal"
+        }
+      },
+      "ENERGETIC_METAL": {
+        "textures": {
+          "ingot": "tconevo:items/metal/ingot/energetic_metal",
+          "dust": "tconevo:items/metal/dust/energetic_metal",
+          "nugget": "tconevo:items/metal/nugget/energetic_metal",
+          "plate": "tconevo:items/metal/plate/energetic_metal",
+          "gear": "tconevo:items/metal/gear/energetic_metal"
+        }
+      },
+      "UNIVERSAL_METAL": {
+        "textures": {
+          "ingot": "tconevo:items/metal/ingot/universal_metal",
+          "dust": "tconevo:items/metal/dust/universal_metal",
+          "nugget": "tconevo:items/metal/nugget/universal_metal",
+          "plate": "tconevo:items/metal/plate/universal_metal",
+          "gear": "tconevo:items/metal/gear/universal_metal"
+        }
+      }
+    },
+    "form": {
+      "INGOT": {
+        "parent": "tconevo:item/metal_ingot"
+      },
+      "DUST": {
+        "parent": "tconevo:item/metal_dust"
+      },
+      "NUGGET": {
+        "parent": "tconevo:item/metal_nugget"
+      },
+      "PLATE": {
+        "parent": "tconevo:item/metal_plate"
+      },
+      "GEAR": {
+        "parent": "tconevo:item/metal_gear"
+      }
+    }
+  }
+}

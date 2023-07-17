@@ -1,0 +1,55 @@
+{
+  "9s": "pi",
+  "archetype": {
+    "parent": "block/cube_all"
+  },
+  "mutations": {
+    "type": {
+      "WYVERN_METAL": {
+        "textures": {
+          "all": "tconevo:blocks/metal/wyvern_metal"
+        }
+      },
+      "DRACONIC_METAL": {
+        "textures": {
+          "all": "tconevo:blocks/metal/draconic_metal"
+        }
+      },
+      "CHAOTIC_METAL": {
+        "textures": {
+          "all": "tconevo:blocks/metal/chaotic_metal"
+        }
+      },
+      "ESSENCE_METAL": {
+        "textures": {
+          "all": "tconevo:blocks/metal/essence_metal"
+        }
+      },
+      "PRIMAL_METAL": {
+        "textures": {
+          "all": "tconevo:blocks/metal/primal_metal"
+        }
+      },
+      "BOUND_METAL": {
+        "textures": {
+          "all": "tconevo:blocks/metal/bound_metal"
+        }
+      },
+      "SENTIENT_METAL": {
+        "textures": {
+          "all": "tconevo:blocks/metal/sentient_metal"
+        }
+      },
+      "ENERGETIC_METAL": {
+        "textures": {
+          "all": "tconevo:blocks/metal/energetic_metal"
+        }
+      },
+      "UNIVERSAL_METAL": {
+        "textures": {
+          "all": "tconevo:blocks/metal/universal_metal"
+        }
+      }
+    }
+  }
+}

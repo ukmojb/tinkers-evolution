@@ -1,0 +1,55 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube_all"
+  },
+  "variants": {
+    "type": {
+      "wyvern_metal": {
+        "textures": {
+          "all": "tconevo:blocks/metal/wyvern_metal"
+        }
+      },
+      "draconic_metal": {
+        "textures": {
+          "all": "tconevo:blocks/metal/draconic_metal"
+        }
+      },
+      "chaotic_metal": {
+        "textures": {
+          "all": "tconevo:blocks/metal/chaotic_metal"
+        }
+      },
+      "essence_metal": {
+        "textures": {
+          "all": "tconevo:blocks/metal/essence_metal"
+        }
+      },
+      "primal_metal": {
+        "textures": {
+          "all": "tconevo:blocks/metal/primal_metal"
+        }
+      },
+      "bound_metal": {
+        "textures": {
+          "all": "tconevo:blocks/metal/bound_metal"
+        }
+      },
+      "sentient_metal": {
+        "textures": {
+          "all": "tconevo:blocks/metal/sentient_metal"
+        }
+      },
+      "energetic_metal": {
+        "textures": {
+          "all": "tconevo:blocks/metal/energetic_metal"
+        }
+      },
+      "universal_metal": {
+        "textures": {
+          "all": "tconevo:blocks/metal/universal_metal"
+        }
+      }
+    }
+  }
+}

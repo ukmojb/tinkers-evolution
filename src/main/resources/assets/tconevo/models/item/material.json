@@ -1,0 +1,25 @@
+{
+  "9s": "pi",
+  "archetype": {
+    "parent": "item/generated"
+  },
+  "mutations": {
+    "type": {
+      "COALESCENCE_MATRIX": {
+        "textures": {
+          "layer0": "tconevo:items/coalescence_matrix"
+        }
+      },
+      "PINK_SLIME_CRYSTAL": {
+        "textures": {
+          "layer0": "tconevo:items/pink_slime_crystal"
+        }
+      },
+      "ARTIFACT_UNSEALER": {
+        "textures": {
+          "layer0": "tconevo:items/artifact_unsealer"
+        }
+      }
+    }
+  }
+}
